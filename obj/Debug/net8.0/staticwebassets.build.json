@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fF24DwGPjpObf0ClhKOz0bwAXN44c7YBj6koXowZH9U=",
+  "Source": "MyFirstDotNetApp",
+  "BasePath": "_content/MyFirstDotNetApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

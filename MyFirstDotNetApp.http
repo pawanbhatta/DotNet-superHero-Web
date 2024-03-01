@@ -1,0 +1,23 @@
+@MyFirstDotNetApp_HostAddress = https://localhost:7162
+
+GET {{MyFirstDotNetApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{MyFirstDotNetApp_HostAddress}}/weatherforecast
+
+###
+
+POST {{MyFirstDotNetApp_HostAddress}}/api/superhero
+Content-Type: application/json
+
+{
+  //SuperHero
+  name:"karl",
+  FirstName:"Kamal"
+  LastName:"Bhatta",
+  place:"Dhangadhi"
+}
+
+###
